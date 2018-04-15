@@ -1,3 +1,7 @@
 .idea/*
 CarND-LeNet-Lab/*
 data/*
+CarND-Transfer-Learning-Lab/data/*
+CarND-Behavioral-Cloning-P3/train_data/*
+CarND-Behavioral-Cloning-P3/__MACOSX/*
+CarND-Behavioral-Cloning-P3/linux_sim/*
