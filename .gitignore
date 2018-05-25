@@ -1,7 +1,11 @@
 .idea/*
-CarND-LeNet-Lab/*
-data/*
-CarND-Transfer-Learning-Lab/data/*
-CarND-Behavioral-Cloning-P3/train_data/*
-CarND-Behavioral-Cloning-P3/__MACOSX/*
-CarND-Behavioral-Cloning-P3/linux_sim/*
+Term1/CarND-Alexnet-Feature-Extraction/*
+Term1/CarND-LeNet-Lab/*
+Term1/CarND-Notes/*
+Term1/CarND-Transfer-Learning-Lab/*
+Term1/CarND-Behavioral-Cloning-P3/train_data/*
+Term1/CarND-Behavioral-Cloning-P3/__MACOSX/*
+Term1/CarND-Behavioral-Cloning-P3/linux_sim/*
+Term1/data/*
+Term1/output_video.mp4
+Term1/project_video_output.mp4
