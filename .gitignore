@@ -1,5 +1,29 @@
+# Pycharm sys file
 .idea/*
+
+# Project files
 Term1/CarND-Alexnet-Feature-Extraction/*
+Term1/CarND-Advanced-Lane-Lines/LICENSE
+Term1/CarND-Advanced-Lane-Lines/README.md
+Term1/CarND-Advanced-Lane-Lines/camera_cal/
+Term1/CarND-Advanced-Lane-Lines/challenge_video.mp4
+Term1/CarND-Advanced-Lane-Lines/example_writeup.pdf
+Term1/CarND-Advanced-Lane-Lines/examples/
+Term1/CarND-Advanced-Lane-Lines/grad_image.png
+Term1/CarND-Advanced-Lane-Lines/harder_challenge_video.mp4
+Term1/CarND-Advanced-Lane-Lines/project_video.mp4
+Term1/CarND-Advanced-Lane-Lines/test_images/
+Term1/CarND-Advanced-Lane-Lines/writeup_template.md
+Term1/CarND-Behavioral-Cloning-P3/
+Term1/CarND-Vehicle-Detection/LICENSE
+Term1/CarND-Vehicle-Detection/README.md
+Term1/CarND-Vehicle-Detection/examples/
+Term1/CarND-Vehicle-Detection/output_images/.DS_Store
+Term1/CarND-Vehicle-Detection/project_video.mp4
+Term1/CarND-Vehicle-Detection/test_images/
+Term1/CarND-Vehicle-Detection/test_video.mp4
+Term1/CarND-Vehicle-Detection/train_data/
+Term1/CarND-Vehicle-Detection/writeup_template.md
 Term1/CarND-LeNet-Lab/*
 Term1/CarND-Notes/*
 Term1/CarND-Transfer-Learning-Lab/*
